@@ -1,10 +1,6 @@
 # 🌐 DEHIX x ICO – Decentralized Innovation 🚀  
 ![DEHIX x ICO Banner](https://via.placeholder.com/1200x400?text=DEHIX+x+ICO+Web3+Platform)  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Contributors](https://img.shields.io/github/contributors/arpit2222/icodehix)](https://github.com/arpit2222/icodehix/graphs/contributors)  
-[![Issues](https://img.shields.io/github/issues/arpit2222/icodehix)](https://github.com/arpit2222/icodehix/issues)  
-[![Forks](https://img.shields.io/github/forks/arpit2222/icodehix?style=social)](https://github.com/arpit2222/icodehix/network/members)  
 
 📢 **Welcome to DEHIX x ICO!** A cutting-edge decentralized platform built with **Web3 technology**, designed to revolutionize **collaborative development and blockchain-based interactions**. 🚀  
 
@@ -22,7 +18,7 @@
 ---
 
 ## ✨ Introduction  
-**DEHIX x ICO** is a next-gen decentralized platform developed by [Arpit2222](https://github.com/arpit2222). It combines **blockchain, smart contracts, and Web3** to create a **scalable, secure, and transparent ecosystem** for developers and users.  
+**DEHIX x ICO** is a next-gen decentralized platform. It combines **blockchain, smart contracts, and Web3** to create a **scalable, secure, and transparent ecosystem** for developers and users.  
 
 🌍 **Powered by the Internet Computer Protocol (ICP),** DEHIX x ICO enables seamless decentralized interactions and transactions.  
 
@@ -41,12 +37,12 @@
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/arpit2222/icodehix.git
+git clone https://github.com/manbahadurthapa1248/Dehix-ICP-Blockchain-Integration
 ```
 
 ### 2️⃣ Navigate into the Project Directory  
 ```bash
-cd icodehix
+cd Dehix-ICP-Blockchain-Integration
 ```
 
 ### 3️⃣ Install Dependencies  
@@ -93,16 +89,6 @@ After installation, you can:
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📩 Contact  
-For support, questions, or suggestions:  
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-🌍 **Website**: [dehix-ico.org](https://dehix-ico.org)  
-🐦 **Twitter**: [@dehixico](https://twitter.com/dehixico)  
 
 💙 *Star this repo if you like the project!* ⭐  
 
@@ -110,7 +96,6 @@ For support, questions, or suggestions:
 
 ### 🔗 **Let's Build the Future of Web3 Together!** 🚀  
 
-![Blockchain Banner](https://via.placeholder.com/1200x300?text=Build+the+Future+of+Decentralized+Web3+with+Us!)
 
 ---
 
@@ -121,5 +106,3 @@ For support, questions, or suggestions:
 ✅ **Contact & social links** to enhance engagement.  
 
 🚀 *This README makes your GitHub repo stand out while giving all the essential info in a structured and attractive way!*  
-
-# icodehix
