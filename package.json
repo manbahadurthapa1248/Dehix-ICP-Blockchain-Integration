@@ -20,5 +20,8 @@
   },
   "workspaces": [
     "src/hello_frontend"
-  ]
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.5.2"
+  }
 }
