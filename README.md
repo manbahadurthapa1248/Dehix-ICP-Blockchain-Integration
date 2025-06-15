@@ -1,5 +1,4 @@
 # 🌐 DEHIX x ICO – Decentralized Innovation 🚀  
-![DEHIX x ICO Banner](https://via.placeholder.com/1200x400?text=DEHIX+x+ICO+Web3+Platform)  
 
 
 📢 **Welcome to DEHIX x ICO!** A cutting-edge decentralized platform built with **Web3 technology**, designed to revolutionize **collaborative development and blockchain-based interactions**. 🚀  
